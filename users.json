@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nickname": "admin",
+      "email": "admin@123.com",
+      "password": "admin123",
+      "type": 1
+    },
+    {
+      "id": 2,
+      "nickname": "user1",
+      "email": "user1@123.com",
+      "password": "user1123",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "nickname": "newuser2",
+      "email": "user2@123.com",
+      "password": "user2123",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "nickname": "newuser3",
+      "email": "user3@123.com",
+      "password": "1234567800",
+      "type": 0
+    }
+  ]
+}

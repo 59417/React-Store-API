@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "scripts": {
+    "server": "nodemon server.js",
+    "start": "json-server --watch db.json --port 3003"  
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
+
+

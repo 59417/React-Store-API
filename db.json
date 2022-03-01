@@ -1,0 +1,165 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Air Jordan 4",
+      "image": "/images/1.jpg",
+      "tags": "92 ",
+      "price": "59440",
+      "status": "available"
+    },
+    {
+      "id": 2,
+      "name": "Nike Paul George PG 3",
+      "price": "53800",
+      "tags": "25 Colors",
+      "image": "/images/2.jpg",
+      "status": "unavailable"
+    },
+    {
+      "id": 3,
+      "name": "Jordan Why Not Zer0.2",
+      "price": "48900",
+      "tags": "16 Color, y",
+      "image": "/images/3.jpg",
+      "status": "available"
+    },
+    {
+      "id": 4,
+      "name": "Nike Air Foamposite One",
+      "image": "/images/4.jpg",
+      "tags": "84 Colors",
+      "price": "73148",
+      "status": "available"
+    },
+    {
+      "id": 5,
+      "name": "adidas Harden Vol.3",
+      "image": "/images/5.jpg",
+      "tags": "34 Colors",
+      "price": "46900",
+      "status": "available"
+    },
+    {
+      "id": 6,
+      "name": "Nike Zoom Kobe 1",
+      "image": "/images/6.jpg",
+      "tags": "26 Colors",
+      "price": "80391",
+      "status": "available"
+    },
+    {
+      "id": 7,
+      "name": "Nike Hyperdunk X(2018)",
+      "image": "/images/7.jpg",
+      "tags": "",
+      "price": "54600",
+      "status": "available"
+    },
+    {
+      "id": 8,
+      "name": "Nike KD 12",
+      "image": "/images/8.jpg",
+      "tags": "",
+      "price": "81800",
+      "status": "available"
+    },
+    {
+      "name": "adidas D.O.N. Issue #1",
+      "price": "38800",
+      "status": "available",
+      "tags": "",
+      "image": "/images/9.jpg",
+      "id": 9
+    },
+    {
+      "name": "adidas D.O.N. Issue #1",
+      "price": "48900",
+      "status": "available",
+      "tags": "",
+      "image": "/images/10.jpg",
+      "id": 10
+    },
+    {
+      "name": "Nike Kyrie Flytrap",
+      "price": "34400",
+      "status": "available",
+      "tags": "",
+      "image": "/images/11.jpg",
+      "id": 11
+    },
+    {
+      "name": "Air Jordan 3",
+      "price": "44900",
+      "status": "available",
+      "tags": "",
+      "image": "/images/12.jpg",
+      "id": 12
+    }
+  ],
+  "carts": [
+    {
+      "productId": 1,
+      "name": "Air Jordan 4",
+      "price": "59440",
+      "image": "/images/1.jpg",
+      "mount": 1,
+      "userId": "admin@123.com",
+      "id": 1
+    },
+    {
+      "productId": 3,
+      "name": "Jordan Why Not Zer0.2",
+      "price": "48900",
+      "image": "/images/3.jpg",
+      "mount": 1,
+      "userId": "admin@123.com",
+      "id": 2
+    },
+    {
+      "productId": 6,
+      "name": "Nike Zoom Kobe 1",
+      "price": "80391",
+      "image": "/images/6.jpg",
+      "mount": 1,
+      "userId": "admin@123.com",
+      "id": 3
+    },
+    {
+      "productId": 8,
+      "name": "Nike KD 12",
+      "price": "81800",
+      "image": "/images/8.jpg",
+      "mount": 1,
+      "userId": "admin@123.com",
+      "id": 4
+    },
+    {
+      "productId": 1,
+      "name": "Air Jordan 4",
+      "price": "59440",
+      "image": "/images/1.jpg",
+      "mount": 1,
+      "userId": "user1@123.com",
+      "id": 5
+    },
+    {
+      "productId": 3,
+      "name": "Jordan Why Not Zer0.2",
+      "price": "48900",
+      "image": "/images/3.jpg",
+      "mount": 1,
+      "userId": "user1@123.com",
+      "id": 6
+    },
+    {
+      "productId": 8,
+      "name": "Nike KD 12",
+      "price": "81800",
+      "image": "/images/8.jpg",
+      "mount": 2,
+      "userId": "user1@123.com",
+      "id": 7
+    }
+  ]
+}
